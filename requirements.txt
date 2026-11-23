@@ -8,3 +8,4 @@ playsound
 pyttsx3
 watchdog
 pyaudio
+openai
