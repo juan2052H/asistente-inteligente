@@ -23,7 +23,7 @@ Python · SpeechRecognition · PyAudio · pyttsx3 · gTTS · OpenCV · mss · Nu
 ## 🚀 Instalación
 
 ```bash
-git clone https://github.com/juan2052H/asistente-inteligente.git
+git clone https://github.com/juanromanbedoya/asistente-inteligente.git
 cd asistente-inteligente
 python -m venv venv
 venv\Scripts\activate          # Windows  (Linux/macOS: source venv/bin/activate)
@@ -60,5 +60,5 @@ python src/main.py
 
 ## 👥 Autores
 
-- **Juan José Román Bedoya** ([@juan2052H](https://github.com/juan2052H))
+- **Juan José Román Bedoya** ([@juanromanbedoya](https://github.com/juanromanbedoya))
 - **Jose David Osorio Gallego** ([@josedavidosorio2005](https://github.com/josedavidosorio2005))
